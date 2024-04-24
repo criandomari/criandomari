@@ -1,0 +1,4 @@
+- Oiii, meu nome é Mariana
+- Tenho 22 anos e atualmente sou estudante de Sistemas de infomação
+- Além disso também estudo analise de dados com Python
+- Sempre que criar algo novo, mesmo basico, irei postar aqui pra servir de historico e portfólio
