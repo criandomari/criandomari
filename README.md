@@ -35,17 +35,16 @@ Busco meu primeiro **estágio em programação** para aplicar conhecimentos, cre
 
 ---
 
-### 📂 Projetos em Destaque  
+### 📂 Projeto em Destaque  
 
-- [🌐 Sistema de Cadastro de Corretores](link-do-repo) – PHP, MySQL, HTML, CSS, JS  
-- [📊 Análise de Dados com Python](link-do-repo) – Pandas, Jupyter Notebook  
-- [🛒 Loja Virtual (WooCommerce/WordPress)](link-do-repo)  
-
+- [🌐 **Vertentes**](https://www.vertentes.org/)  
+  **Descrição:** Desenvolvimento do site institucional do Vertentes, com foco em **acessibilidade, usabilidade e disseminação de informações sobre saúde mental**.  
+  **Tecnologias:** HTML, CSS, JavaScript  
 ---
 
 ### 📫 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mariana-souza-2857082bb/)  
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:seuemail@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:criandomary1@gmail.com)  
 
 ---
 
