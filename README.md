@@ -37,7 +37,7 @@ Busco meu primeiro **estágio em programação** para aplicar conhecimentos, cre
 
 ### 📂 Projeto em Destaque  
 
-- [🌐 **Vertentes**](https://www.vertentes.org/)  
+- [🌐 **Vertentes**](https://www.vertentescontabeis.com.br)  
   **Descrição:** Desenvolvimento do site institucional do Vertentes, com foco em **acessibilidade, usabilidade e disseminação de informações sobre saúde mental**.  
   **Tecnologias:** HTML, CSS, JavaScript  
 ---
